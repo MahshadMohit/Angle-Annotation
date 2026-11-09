@@ -16,6 +16,8 @@ This repository provides an automated pipeline for analyzing the geometric prope
 - **Kink Detection**: Automated estimation of incoming and outgoing arm directions around user-defined or peak-based tortuosity points to calculate the exact angle of vessel curvature.
 
 ---
+## Web Dashboard 
+<img width="1261" height="597" alt="image" src="https://github.com/user-attachments/assets/6812262e-13f3-40b1-857f-d2cd95e64bf1" />
 
 ## Visualizations
 
